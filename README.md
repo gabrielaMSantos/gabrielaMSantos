@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriela Moreno</h1>
-<h3 align="center">A Data Engineer/Analyst with 3 year if experience</h3>
+<h3 align="center">A Data Engineer/Analyst with 3 year of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamsantos&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielamsantos" /> </p>
 
