@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gabrielamrs.33@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriela-moreno-rocha-dos-santos-02982251/](https://www.linkedin.com/in/gabriela-moreno-rocha-dos-santos-02982251/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gabriela-m-r-santos/](https://www.linkedin.com/in/gabriela-m-r-santos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
